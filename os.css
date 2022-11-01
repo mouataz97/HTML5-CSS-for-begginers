@@ -19,3 +19,11 @@ strong {
 a {
     color: Teal;
 }
+@font-face {
+    font-family: 'KolkerBrush-Regular';
+    src: url('fonts/KolkerBrush-Regular.ttf');
+}
+#FTS{
+    font-family: 'KolkerBrush-Regular';
+    font-size: 40px;
+}
